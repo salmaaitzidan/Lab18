@@ -48,7 +48,7 @@ Lab18.docx document word contyient touts les tests avec les screenshots
 
 ### Test 1 — Rotation
 ```
-Incrémenter jusqu'à 10 → tourner l'écran → compteur intact ✅
+Incrémenter jusqu'à 10 → tourner l'écran → compteur intact 
 ```
 
 ### Test 2 — Thème sombre
